@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**ItsHarish-Gupta/ItsHarish-Gupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Hi there 👋 It's Harish Here
 
 - 🔭 I’m currently studying at G L Bajaj Institute of Technology & Management.
 - 🌱 I’m currently learning Java.
@@ -13,4 +8,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
